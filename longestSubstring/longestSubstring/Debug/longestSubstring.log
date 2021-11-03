@@ -1,0 +1,5 @@
+﻿  longestSubstring.cpp
+C:\Users\macie\source\repos\longestSubstring\longestSubstring\longestSubstring.cpp(110,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\macie\source\repos\longestSubstring\longestSubstring\longestSubstring.cpp(112,17): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+C:\Users\macie\source\repos\longestSubstring\longestSubstring\longestSubstring.cpp(120,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  longestSubstring.vcxproj -> C:\Users\macie\source\repos\longestSubstring\Debug\longestSubstring.exe

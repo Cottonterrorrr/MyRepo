@@ -1,0 +1,4 @@
+﻿  String_and_Array.cpp
+C:\Users\macie\source\repos\String_and_Array\String_and_Array\String_and_Array.cpp(23,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\macie\source\repos\String_and_Array\String_and_Array\String_and_Array.cpp(35,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  String_and_Array.vcxproj -> C:\Users\macie\source\repos\String_and_Array\Debug\String_and_Array.exe
